@@ -1,5 +1,7 @@
 # stone_paper_challenge
 
-this is a mini-game for challenge MicrosoftLearn, i code with codespaces
-i go use python for this app
+hi,
+
+this is a mini-game for challenge MicrosoftLearn, i code in codespaces
+i use python for this app
 
